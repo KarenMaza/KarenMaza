@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me email
+- 📫 How to reach me karenm77@nycstudents.net
 
 <!---
 KarenMaza/KarenMaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
